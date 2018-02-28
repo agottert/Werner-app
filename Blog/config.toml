@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The Path to Werner colour app"
+theme = "hemingway2"
+
+copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
+
+
+description = "Your personal description"
+keywords = ["keyword1", "keyword2"]
+
+
+
+
+
