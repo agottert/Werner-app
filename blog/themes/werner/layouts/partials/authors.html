@@ -1,0 +1,5 @@
+<div class="tags">
+    {{ range . }}
+        <a class="button is-link" href="{{ "/authors/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+</div>

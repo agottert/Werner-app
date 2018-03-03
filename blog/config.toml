@@ -7,8 +7,4 @@ copyright = "&copy; <a href=\"https://github.com/agottert\">María Agustina Göt
 
 preserveTaxonomyNames = true
 [taxonomies]
-tag = "tags"
-category = "categories"
-
-[params.highlight]
-languages = ["go", "dockerfile"]
+author = "authors"
