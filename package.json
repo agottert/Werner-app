@@ -1,0 +1,26 @@
+{
+  "name": "werner-app",
+  "version": "0.0.1",
+  "description": "Werner's Nomenclature of Colours, 21th Century Edition",
+  "main": "index.js",
+  "scripts": {
+    "blog:styles": "gulp --gulpfile blog/gulpfile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agottert/werner-app.git"
+  },
+  "author": "Hernán Rodríguez Colmeiro <me@peregrinogris.com.ar> (http://peregrinogris.com.ar)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agottert/werner-app/issues"
+  },
+  "homepage": "https://github.com/agottert/werner-app#readme",
+  "dependencies": {
+    "bulma": "0.1.2",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "5.0.0",
+    "gulp-sass": "3.1.0"
+  }
+}
