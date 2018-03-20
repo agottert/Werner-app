@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Path to the Werner Colour App</title>
+    <link>https://agottert.github.io/werner-app/posts/</link>
+    <description>Recent content in Posts on The Path to the Werner Colour App</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/agottert&#34;&gt;María Agustina Göttert&lt;/a&gt; &amp; &lt;a href=&#34;https://github.com/peregrinogris&#34;&gt;Hernán Rodríguez Colmeiro&lt;/a&gt; 2018</copyright>
+    <lastBuildDate>Tue, 20 Mar 2018 01:17:46 -0300</lastBuildDate>
+    
+	<atom:link href="https://agottert.github.io/werner-app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opening Line</title>
+      <link>https://agottert.github.io/werner-app/posts/opening-line/</link>
+      <pubDate>Tue, 20 Mar 2018 01:17:46 -0300</pubDate>
+      
+      <guid>https://agottert.github.io/werner-app/posts/opening-line/</guid>
+      <description>So it begins, our journey reimaginig a work from the early 19th Century into a 21st Century form.
+I like literature, but I&amp;rsquo;m no expert by any means, so that&amp;rsquo;s my humble attempt at an opening line.
+The idea behind this blog is to write updates about the progress we make on the project. Maybe more than a blog it should be called a journal. Entries can be lengthy, short, technical, philosophical, art-related, books-related&amp;hellip; Anything Agustina or I deem interesting enough to write about, will be written about!</description>
+    </item>
+    
+  </channel>
+</rss>
