@@ -1,0 +1,42 @@
+ul {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #F6F3EA;
+    font-family: Avenir, Heveltica, Arial, san-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+
+}
+li{
+    color: #ffff;
+    padding:1em;
+}
+li:nth-child(1){
+    background: rgb(133, 10, 133);
+}
+li:nth-child(2){
+  background: rgb(6, 175, 6);
+}
+
+li:nth-child(3){
+   background: rgb(243, 243, 94);
+}
+li:nth-child(4){
+  background:rgb(233, 70, 70);
+}
+li:nth-child(5){
+    background:rgb(53, 53, 230);
+}
+li:nth-child(6){
+    background: rgb(219, 148, 15);
+}
+li:nth-child(7){
+    background:#000000;
+}
+li:nth-child(8){
+    background:rgb(243, 100, 124);
+}
