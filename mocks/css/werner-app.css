@@ -1,3 +1,5 @@
+
+
 ul {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
@@ -9,14 +11,19 @@ ul {
     font-family: Avenir, Heveltica, Arial, san-serif;
     font-weight: bold;
     font-size: 1.2rem;
+    
 
 }
 li{
     color: #ffff;
     padding:1em;
+    margin-left: 10vw;
+    margin-right:10vw;
+
+
 }
 li:nth-child(1){
-    background: rgb(133, 10, 133);
+    background: rgb(212, 42, 212);
 }
 li:nth-child(2){
   background: rgb(6, 175, 6);
@@ -32,11 +39,11 @@ li:nth-child(5){
     background:rgb(53, 53, 230);
 }
 li:nth-child(6){
-    background: rgb(219, 148, 15);
+    background: rgb(241, 166, 53);
 }
 li:nth-child(7){
     background:#000000;
 }
 li:nth-child(8){
-    background:rgb(243, 100, 124);
+    background:rgb(224, 8, 156);
 }
