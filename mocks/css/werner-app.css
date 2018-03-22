@@ -4,13 +4,14 @@ ul {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-gap: 0.5rem;
-    margin: 0;
+    margin-top:10vh;
     padding: 0;
     list-style: none;
     color: #F6F3EA;
     font-family: Avenir, Heveltica, Arial, san-serif;
     font-weight: bold;
     font-size: 1.2rem;
+
     
 
 }
