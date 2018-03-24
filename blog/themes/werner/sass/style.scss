@@ -1,6 +1,7 @@
 $blue: #2077b2;
 $primary: $blue;
 $grey-dark: #42464c;
+$family-sans-serif: "im fell", sans-serif;
 
 @import "../../../../node_modules/bulma/bulma";
 
@@ -10,7 +11,7 @@ $grey-dark: #42464c;
 }
 
 .content {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.75;
 }
 
@@ -41,6 +42,10 @@ html {
 nav .level {
   padding-top: 14px;
   padding-bottom: 6px;
+}
+
+.title, .subtitle {
+  white-space: normal;
 }
 
 .subtitle {

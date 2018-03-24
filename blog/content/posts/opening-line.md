@@ -4,8 +4,8 @@ date: 2018-03-20T01:17:46-03:00
 authors: ["Hernan"]
 ---
 
-So it begins, our journey reimaginig a work from the early 19th Century into a
-21st Century form.
+_So it begins, our journey reimaginig a work from the early 19th Century into a
+21st Century form._
 
 I like literature, but I'm no expert by any means, so that's my humble attempt
 at an opening line.
