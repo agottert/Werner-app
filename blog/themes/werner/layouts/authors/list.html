@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+<body>
+  {{ partial "nav" . }}
+  <section class="section">
+    <div class="container">
+      <h1 class="title">Posts by...</h1>
+      {{ range sort .Paginator.Pages }}
+      <article>
+        <h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ partial "footer" . }}
+</body>
+</html>

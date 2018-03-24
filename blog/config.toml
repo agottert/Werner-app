@@ -1,15 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://agottert.github.io/werner-app/"
 languageCode = "en-us"
-title = "The Path to Werner colour app"
-theme = "hemingway2"
+title = "The Path to the Werner Colour App"
+theme = "werner"
 
-copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
+copyright = "&copy; <a href=\"https://github.com/agottert\">María Agustina Göttert</a> & <a href=\"https://github.com/peregrinogris\">Hernán Rodríguez Colmeiro</a> 2018"
 
-
-description = "Your personal description"
-keywords = ["keyword1", "keyword2"]
-
-
-
-
-
+preserveTaxonomyNames = true
+[taxonomies]
+author = "authors"
