@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'im fell';
+    src: url('./fonts/FeENrm28C-webfont.woff') format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'im fell';
+    src: url('./fonts/FeENit27C-webfont.woff') format('woff');
+    font-style: italic;
+}
